@@ -1,9 +1,8 @@
-# python-tkinter-application-development
+# tkinter examples
 
-**Python3-Tkinter桌面应用开发**
+**Tkinter GUI 应用程序实例代码**
 
 > UI: tkinter
-
 
 
 在Python的内置UI组件tkinter中，有21个核心组件，它们提供了最基本的功能，虽然简单，因为使用频率较高，因此特别重要。这21个核心组件是：
